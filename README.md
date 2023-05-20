@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 ![Remag29's GitHub stats](https://github-readme-stats.vercel.app/api?username=remag29&show_icons=true&theme=tokyonight)
-![Code top](https://github-readme-stats.vercel.app/api/top-langs/?username=remag29&layout=compact&theme=gotham&hide_border=true&&count_private=true&include_all_commits=true&layout=compact&langs_count=4)
-
 
 <!--
 **Remag29/Remag29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
