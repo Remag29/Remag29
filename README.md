@@ -2,6 +2,8 @@
 
 ![Remag29's GitHub stats](https://github-readme-stats.vercel.app/api?username=remag29&show_icons=true&theme=tokyonight)
 
+<script src="https://tryhackme.com/badge/1952708"></script>
+
 <!--
 **Remag29/Remag29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
